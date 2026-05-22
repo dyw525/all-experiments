@@ -8,3 +8,4 @@
 | compose布局 | [sy2-BasicsCodelab](https://github.com/dyw525/sy2-BasicsCodelab)  |
 | AI-compose   | [sy2-aicompose](https://github.com/dyw525/sy2-aicompose.git)             |
 | cameraX          | [sy2-3](https://github.com/dyw525/sy2-3)                                |
+| jupyter notebook | [sy3-notebook](https://github.com/dyw525/sy3-notebook) |
