@@ -9,3 +9,5 @@
 | AI-compose   | [sy2-aicompose](https://github.com/dyw525/sy2-aicompose.git)             |
 | cameraX          | [sy2-3](https://github.com/dyw525/sy2-3)                                |
 | jupyter notebook | [sy3-notebook](https://github.com/dyw525/sy3-notebook) |
+| sy5-1 | [sy5-1](https://github.com/dyw525/sy5-1) |
+| sy5-2 | [sy5-2](https://github.com/dyw525/sy5-2) |
